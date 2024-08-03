@@ -1,4 +1,4 @@
-# Animated Calculator
+#Calculator
 
 Welcome to this Calculator project! This project demonstrates how to create an attractive calculator with animations using HTML, CSS, and JavaScript.
 
